@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "username":"noorullah@gmail.com",
+            "password":"Noor@123"
+        },
+        {
+            "username":"raju@gmail.com",
+            "password":"Raju@123"
+        }
+    ],
+    "blogs":[
+        {
+        "Title":"Tourist-place",
+        "Author":"Noorullah"
+        },
+        {
+            "Title":"Food-blog",
+            "Author":"Raju"
+        },
+        {
+            "Title":"interesting story",
+            "Author":"Ram"
+        }
+    ]
+}
